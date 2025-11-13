@@ -4,16 +4,16 @@ I'm a Data Science & AI student focused on building real-world machine learning 
 
 I work mainly with Python, SQL and scikit-learn, and I'm currently learning Docker, FastAPI and cloud services to build end-to-end data applications.
 
-### 🚀 What I'm working on
+### What I'm working on
 - An end-to-end ML pipeline project (cleaning, feature engineering, CV, deployment)
 - A business intelligence dashboard with Streamlit & Python
 - Improving my technical interview skills (SQL, Python, ML fundamentals)
 
-### 🛠️ Tech toolbox
+###  Tech toolbox
 Python • pandas • numpy • scikit-learn • SQL • Git/GitHub • Streamlit  
 Docker • FastAPI (learning) • AWS basics (learning)
 
-### 🎯 Goals
+### Goals
 - Keep improving my technical knowledge in Machine Learning, data engineering and cloud technologies.
 - Develop a solid understanding of real-world data workflows: from data cleaning to deployment.
 - Strengthen my problem-solving skills through hands-on projects.
