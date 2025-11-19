@@ -1,4 +1,4 @@
-# Hi, I'm Ariel 👋
+# I'm Ariel 
 
 I'm a Data Science & AI student focused on building real-world machine learning projects and developing an international career in Europe.
 
